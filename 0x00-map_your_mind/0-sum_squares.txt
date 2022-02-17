@@ -1,0 +1,23 @@
+initialize number 
+initialize rem
+initialize squares 
+initialize sum of zero 
+
+print out  number<< "Enter a number: ";
+
+input in number << num;
+
+while (the number is greater than 0)
+
+      add number%10 to rem
+
+      if the rem is equal to 0
+ 
+         add one to square 
+
+       add sum and square together
+ 
+       divide number by ten
+ 
+print out the sum 
+
