@@ -1,0 +1,18 @@
+Pseudo Code: 
+Read numl, num2, num3 
+If (numl < num2)
+     If(num2 < num3) 
+          Write numl , num2, num3
+     Else
+          If(num3 < numl) 
+              Write num3, numl, num2  
+          Else 
+              Write numl, num3, num2 
+else
+      If(numl < num3) 
+              Write num2 , numl, num3 
+      Else 
+            If(num3 < num2) 
+                 Write num3, num2, numl 
+            Else 
+                 Write num2, num3, numl 
